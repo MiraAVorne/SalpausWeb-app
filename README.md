@@ -28,3 +28,8 @@ Kuvan lisääminen:
 www.google.com  
 [Lisää tietoa](http://google.com)
 
+Taulukko:  
+Eka sarake|Toinen sarake
+----------|-------------
+abc|123
+xyz|456
