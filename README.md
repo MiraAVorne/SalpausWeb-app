@@ -10,3 +10,7 @@ Erilaisia otsikoita:
 ##### 5. tason otsikko
 ###### 6. tason otsikko
 <!--Tähän tulee kommenttitekstiä-->
+Listoja voit tehdä näin:  
+* Listan 1. elementti
+* Listan 2. elementti
+* Listan 3. elementti
