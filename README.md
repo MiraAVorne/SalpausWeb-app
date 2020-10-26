@@ -25,6 +25,6 @@ Numeroitu lista:
 Kuvan lisääminen:
 ![IT-Tukihenkilön kuva](it-tuki.jpg)
 
-www.google.com
+www.google.com  
 [Lisää tietoa](http://google.com)
 
