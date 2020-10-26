@@ -22,3 +22,5 @@ Numeroitu lista:
       1. alaelementti
 1. kolmas juttu
 
+Kuvan lisääminen:
+![IT-Tukihenkilön kuva](it-tuki.jpg)
