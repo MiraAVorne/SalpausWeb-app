@@ -34,3 +34,11 @@ Eka sarake|Toinen sarake
 abc|123
 xyz|456
 
+:smiley:  
+
+Koodit kirjoitetaan usein laatikkoon:
+````
+function(){
+   funktion sisältö
+}
+````
